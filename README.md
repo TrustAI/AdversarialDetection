@@ -1,4 +1,4 @@
-## Adversarial Detection in ROS
+## adversarial perturbation tool for assessing the robustness of end-to-end object detection systems on autonomous vehicles 
 
 ![](doc/attack.jpg)
 
